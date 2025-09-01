@@ -10,17 +10,19 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Find a job by reviewing all open job descriptions that match my criteria and select 4 per week.  Modify resume to match the job requirements, apply for the job and get four interview per week.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Everyone at some time needs to find a job.  Finding a job is very difficult for anyone in any field or level.
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* How to research open job opportunities
+* How to screen the opportunities to match the applicants' skills, experience and location.
+* How to update resume.
+* How to apply for the jobs and screen for responses.
+* Screen positive responses and apply for interview.
 
 
 ## How is it used?
